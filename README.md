@@ -16,7 +16,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Description
+
+In this task, not only did we manipulate styles, but we got to see what happens when HTML, CSS, and JS come together. We were given starter code and expected to create two eyes instead of one. The mouse movement event was used to bind the DOM elements to the event, as well as change the position of the eye to create a "moving eye" effect. After creating the two eyes, I changed the color of the background to a preferred color. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -25,7 +26,7 @@ Description
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Info someone would use to get started running your project on their machine
+To get this exercise to work, simply load the HTML file onto your browser. The JavaScript file with the code for the mouse movement is linked into the HTML file and results in the action on the screen. Feel free to change colors, number of eyes, and make it your own!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -34,9 +35,8 @@ Info someone would use to get started running your project on their machine
 <!-- ROADMAP -->
 ## Roadmap
 
-- [X] What you plan to work on next in this repo
-- [ ] 
-
+- [ ] Change the eye color
+- [ ] Add more shapes to make a face around the eyes
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
